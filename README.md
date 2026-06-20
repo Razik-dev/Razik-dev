@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mahammad Razik 👋
 
-<!--
-**Razik-dev/Razik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (AI & ML)
 
-Here are some ideas to get you started:
+🔐 Aspiring Red Teamer and Penetration Tester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python | Linux | Cybersecurity
+
+## About Me
+
+* Learning Ethical Hacking and Penetration Testing
+* Building cybersecurity projects in Python
+* Practicing Linux privilege escalation
+* Exploring AI applications in cybersecurity
+
+## Skills
+
+* Python
+* Linux
+* Networking
+* Git & GitHub
+* Basic Web Security
+
+## Current Projects
+
+* Linux Privilege Escalation Auditor
+* Hacking Notes Repository
+
+## Learning Platforms
+
+* Hack The Box
+* TryHackMe
+
+## Goals
+
+* Build a strong cybersecurity portfolio
+* Gain practical penetration testing experience
+* Secure a cybersecurity internship
