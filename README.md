@@ -25,6 +25,7 @@
 
 * Linux Privilege Escalation Auditor
 * Hacking Notes Repository
+* kali-linux-dual-boot-windows11 
 
 ## Learning Platforms
 
